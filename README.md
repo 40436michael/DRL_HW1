@@ -7,7 +7,8 @@
 
 
 https://github.com/user-attachments/assets/c17b888a-d816-4df0-9b69-2946a476db5f
-
+## prompt history
+log.md
 
 
 ### [HW1-1] 網格地圖開發
