@@ -4,7 +4,11 @@
 
 ## 📌 作業要求對應 (HW1 Features)
 ## demo 影片
-2026-04-02 16-42-03.mp4
+
+
+https://github.com/user-attachments/assets/c17b888a-d816-4df0-9b69-2946a476db5f
+
+
 
 ### [HW1-1] 網格地圖開發
 - 🗺️ 支援動態指定大小 `$n \times n$` 的網格地圖（$n$ 的範圍支援 `5` 到 `9`）。
